@@ -9,11 +9,11 @@ return (
   </div>
 <nav>
   <ul>
-  <li>Home</li>
-  <li>Novedades</li>
-  <li>Ofertas</li>
-  <li>Promociones</li>
-  <li> <CartWidget/> </li> 
+    <a href=""><li> Home</li></a> 
+    <a href=""><li>Novedades</li></a> 
+    <a href=""><li>Ofertas</li></a>
+    <a href=""><li>Promociones</li></a>
+    <a href=""><li> <CartWidget/> </li> </a>
   </ul>
   </nav>
 </div>

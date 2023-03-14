@@ -2,7 +2,6 @@ function ItemListContainer (props) {
     const styleSaludo = {
         marginTop:"20x",
         fontSize: "100px",
-        fontColor: "red"
     };
 
     return ( 
